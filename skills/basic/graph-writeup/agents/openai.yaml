@@ -1,0 +1,4 @@
+interface:
+  display_name: "Graph Writeup"
+  short_description: "Create charts for writeups"
+  default_prompt: "Use -writeup to generate a chart and insert it into the Thesis."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Table Writeup"
+  short_description: "Insert concise analysis tables"
+  default_prompt: "Use -writeup to add a markdown table to the Thesis."

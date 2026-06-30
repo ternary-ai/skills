@@ -1,0 +1,4 @@
+interface:
+  display_name: "Calculator"
+  short_description: "Accurate arithmetic and unit math"
+  default_prompt: "Use  to compute a numeric result."
