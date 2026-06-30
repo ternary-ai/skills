@@ -1,4 +1,3 @@
-```skill
 ---
 name: data-source
 description: "Universal data-source resolver. Call this skill at the start of EVERY quantitative request — before fetching anything — to identify which tool or API to use. Maps any data need (financials, price, dividends, news, filings, insider, options, transcripts, peers, etc.) to the correct tool and priority order. Always check <stock_context> and <acquired_data> first before making any API call."
@@ -192,5 +191,3 @@ After loading this skill, the agent outputs a **data plan** — a short numbered
 3. What to compute from the fetched data.
 
 Then the agent executes the plan before rendering any output.
-
-```
