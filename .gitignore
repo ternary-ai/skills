@@ -1,3 +1,5 @@
+bkp/
+
 # Secrets
 .env
 *.env
