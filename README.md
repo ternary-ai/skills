@@ -2,7 +2,7 @@
 
 **Agent-native finance. Build for markets.**
 
-A library of cognitive agent skills for agentic financial intelligence. Skills are step-by-step playbooks loaded on demand — covering research, portfolio management, risk, and crisis protocols.
+A library of cognitive agent skills for agentic financial intelligence. Skills are step-by-step playbooks loaded on demand ; covering research, portfolio management, risk, and crisis protocols.
 
 ---
 
